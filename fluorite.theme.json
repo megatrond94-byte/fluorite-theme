@@ -1,12 +1,12 @@
-/**
- * @name FLUORITE
- * @author ClearVision Team
+ŭ/**
+ * @name KRONI 
+ * @author RUD
  * @version 6.9.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
+ * @description FUNNY KOREAN WOMAN
+ * @source https://github.com/megatrond94-byte
+ * @website 
  * @invite dHaSxn3
- * @BDEditor Clear Vision
+ * @BDEditor
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
@@ -17,7 +17,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://raw.githubusercontent.com/megatrond94-byte/fluorite-theme/refs/heads/main/RDT_20260731_1835225898928289741073783.jpg');
+  --background-image: url('https://raw.githubusercontent.com/megatrond94-byte/fluorite-theme/refs/heads/main/illust_148527621_20260825_140804.png');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
